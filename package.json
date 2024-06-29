@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "vitest": "^1.6.0"
+  },
+  "name": "third-angle-of-the-triangle",
+  "description": "Instrucciones:\r Dado dos ángulos interiores de un triangulo en grados.\r Escribe una función que devuelva el tercer ángulo.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConchyP/Third-angle-of-the-triangle.git"
+  },
+  "author": "Conchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConchyP/Third-angle-of-the-triangle/issues"
+  },
+  "homepage": "https://github.com/ConchyP/Third-angle-of-the-triangle#readme"
+}
